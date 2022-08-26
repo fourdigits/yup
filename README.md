@@ -1,3 +1,6 @@
+> **Warning**
+> Since the (pre)releases of Yup 1.0.0 this fork has become obsolete. Just use the official (beta) releases from now on.
+
 # Yup
 
 Yup is a JavaScript schema builder for value parsing and validation. Define a schema, transform a value to match, validate the shape of an existing value, or both. Yup schema are extremely expressive and allow modeling complex, interdependent validations, or value transformations.
